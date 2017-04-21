@@ -1,2 +1,2 @@
 # mailofmoshe
-the mail server for kashany project
+the mail server for kashany project no1
